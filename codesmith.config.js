@@ -25,7 +25,7 @@ module.exports = function (codesmith) {
             },
             {
                 type: 'shell',
-                command: 'yarn add stylelint-config-standard'
+                command: 'yarn add stylelint stylelint-config-standard'
             }
         ]
     });
